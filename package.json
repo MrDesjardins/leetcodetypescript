@@ -1,0 +1,14 @@
+{
+  "name": "leettypescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "debug": "node --nolazy outputs/index.js"
+  },
+  "author": "Patrick Desjardins <mrdesjardins@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
